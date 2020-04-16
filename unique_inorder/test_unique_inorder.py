@@ -1,3 +1,9 @@
+# Codewars Kata solution for Unique In Order
+#
+# Run using,
+# 
+# pytest -s test_unique_inorder.py
+
 
 def unique_in_order(items):
     res = []
