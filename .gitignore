@@ -1,3 +1,10 @@
-almost_everywhere_zero\__pycache__
-tribonocci\__pycache__
-unique_inorder\__pycache__
+__pycache__
+.pytest_cache
+unique_inorder/__pycache__
+unique_inorder/.pytest_cache
+tribonocci/__pycache__
+tribonocci/.pytest_cache
+almost_everywhere_zero/__pycache__
+almost_everywhere_zero/.pytest_cache
+max_profit/__pycache__
+max_profit/.pytest_cache
